@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+dist-server/
+coverage/
+.aistudio/
+.unlazy/
+metadata.json
+WO/
+.DS_Store
+*.log
+.env*
+!.env.example
